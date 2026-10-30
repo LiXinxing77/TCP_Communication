@@ -1,0 +1,18 @@
+[
+  {
+    "sha": "dd5c7ee8b8b8404742ad9b5871ebb2df4189202a",
+    "short": "dd5c7ee",
+    "message": "Add LabVIEW CI pipeline",
+    "author": "Li Xinxing",
+    "date": "2026-10-30T21:26:12+08:00",
+    "vi_count": 19
+  },
+  {
+    "sha": "9ffbb893b470a6a97da9daf1a123352f89fe0e86",
+    "short": "9ffbb89",
+    "message": "unzip",
+    "author": "LiXinxing77",
+    "date": "2026-06-10T20:30:26+08:00",
+    "vi_count": 19
+  }
+]
