@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "sha": "dd5c7ee8b8b8404742ad9b5871ebb2df4189202a",
+    "short": "dd5c7ee",
+    "platform": "windows",
+    "repo": "LiXinxing77/TCP_Communication",
+    "pages_url": "https://LiXinxing77.github.io/TCP_Communication",
+    "pages_base": "../..",
+    "commit": {
+      "message": "Add LabVIEW CI pipeline",
+      "author": "Li Xinxing",
+      "date": "2026-10-30T21:26:12+08:00"
+    },
+    "generated_utc": "2026-10-31 04:11 UTC",
+    "analysis_date": "Saturday, October 31, 2026 4:11:24 AM",
+    "duration": "00:01:08.63"
+  },
+  "summary": {
+    "vis_analyzed": 37,
+    "tests_run": 3848,
+    "passed": 3606,
+    "failed": 242,
+    "skipped": 0,
+    "findings": 132,
+    "vis_with_findings": 19
+  },
+  "errors": {
+    "vi_not_loadable": 0,
+    "test_not_loadable": 0,
+    "test_not_runnable": 0,
+    "test_error_out": 0
+  },
+  "rule_counts": [
+    {
+      "test": "Panel Size and Position",
+      "severity": "style",
+      "count": 24,
+      "vi_count": 19
+    },
+    {
+      "test": "Separate Compiled Code Setting",
+      "severity": "style",
+      "count": 19,
+      "vi_count": 19
+    },
+    {
+      "test": "VI Documentation",
+      "severity": "documentation",
+      "count": 19,
+      "vi_count": 19
+    },
+    {
+      "test": "Enabled Debugging",
+      "severity": "performance",
+      "count": 15,
+      "vi_count": 15
+    },
+    {
+      "test": "Wire Bends",
+      "severity": "style",
+      "count": 15,
+      "vi_count": 8
+    },
+    {
+      "test": "Error Cluster Wired",
+      "severity": "correctness",
+      "count": 11,
+      "vi_count": 9
+    },
+    {
+      "test": "Control Alignment",
+      "severity": "style",
+      "count": 9,
+      "vi_count": 9
+    },
+    {
+      "test": "Auto Error Handling Enabled",
+      "severity": "correctness",
+      "count": 5,
+      "vi_count": 5
+    },
+    {
+      "test": "String Constant Style",
+      "severity": "style",
+      "count": 4,
+      "vi_count": 4
+    },
+    {
+      "test": "Case Structure Default Frame",
+      "severity": "style",
+      "count": 3,
+      "vi_count": 2
+    },
+    {
+      "test": "Spell Check",
+      "severity": "documentation",
+      "count": 3,
+      "vi_count": 3
+    },
+    {
+      "test": "Comment Usage",
+      "severity": "documentation",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Diagram Size",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Duplicate Control Labels",
+      "severity": "correctness",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Overlapping Controls",
+      "severity": "correctness",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Wires Under Objects",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    }
+  ]
+}
